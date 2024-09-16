@@ -23,7 +23,7 @@
     <string name="select_tile">Select tile</string>
     <string name="English">English</string>
     <string name="new_password">New password</string>
-    <string name="Tajik">Tajik</string>
+    <string name="Tajik">Tajiki</string>
     <string name="sign_in">Sign In</string>
     <string name="sign_out">Sign Out</string>
     <string name="network_401">Unauthorized</string>
@@ -76,7 +76,7 @@
     <string name="scan_popup_title">Single form of customs control</string>
     <string name="driver_license">Driver license</string>
     <string name="customs_762117">Dushanbe Terminal</string>
-    <string name="customs_popup_762117"><p style="margin : 0; padding-top:0;"><b>Code:</b> 762117</p><p style="margin : 0; padding-top:0;"><b>Address:</b> Dushanbe city</p><p style="margin : 0; padding-top:0;"><b>Work hours:</b> 8:00-17:00</p><a href="https://762117">Monitoring</a></string>
+    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt; Dushanbe City&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work hours:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Scales&lt;/a&gt;</string>
     <string name="scan_xray_driver_name_title">Driver\'s Name</string>
     <string name="scan_document_id_title">Document No</string>
     <string name="scan_camera_vehicle_license_plate_title">Plate No</string>
@@ -104,9 +104,9 @@
     <string name="customs_762225">Customs 762225</string>
     <string name="vehicle_license_plate_image">Vehicle license plate image</string>
     <string name="mapper">Mapper</string>
-    <string name="customs_popup_762317">Customs 762317</string>
+    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt;Jayhun, Panji Poyon&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work hours:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Scales&lt;/a&gt;</string>
     <string name="customs_762317">Сustoms 762317</string>
-    <string name="customs_popup_762215">Customs 762215</string>
+    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt;Mastchoh, Fotehobod&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Working hours:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;X-Ray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Scales&lt;/a&gt;</string>
     <string name="customs_popup_762225">Customs 762225</string>
     <string name="customs_762215">Customs 762215</string>
     <string name="map_location_latitude">Latitude</string>
