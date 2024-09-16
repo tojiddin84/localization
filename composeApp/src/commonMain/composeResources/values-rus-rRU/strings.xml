@@ -110,10 +110,10 @@
     <string name="data_path">Путь к данным</string>
     <string name="at_format">Формат даты</string>
     <string name="mapper">Маппер</string>
-    <string name="customs_popup_762317">Пост 732317</string>
+    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Джайхун, Панджи Поён&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Время работы:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Весы&lt;/a&gt;</string>
     <string name="customs_762317">Пост 762317</string>
     <string name="customs_762225">Пост 762225</string>
-    <string name="customs_popup_762215">Пост 762215</string>
+    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Мастчо, Фотехобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рабочее время:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Весы&lt;/a&gt;</string>
     <string name="customs_popup_762225">Пост 762225</string>
     <string name="customs_762215">Пост 762215</string>
     <string name="map_location_latitude">Широта</string>
@@ -121,5 +121,5 @@
     <string name="map_location_longitude">Долгота</string>
     <string name="map_location_identifier">Код поста</string>
     <string name="map_location_description">Описание</string>
-    <string name="customs_popup_762117"><p style="margin : 0; padding-top:0;"><b>Code:</b> 762117</p><p style="margin : 0; padding-top:0;"><b>Address:</b> г. Душанбе</p><p style="margin : 0; padding-top:0;"><b>Рабочее время:</b> 8:00-17:00</p><a href="https://762117">Мониторинг</a></string>
+    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; г. Душанбе&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рабочее время:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Весы&lt;/a&gt;</string>
 </resources>
