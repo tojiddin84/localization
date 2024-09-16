@@ -63,7 +63,7 @@
     <string name="confirm_alert">Боварӣ доред?</string>
     <string name="open_street_map">Харитаи OpenStreet</string>
     <string name="google_map">Харитаи Гугл</string>
-    <string name="value_is_negative">Маълумоти манфӣ</string>
+    <string name="value_is_negative">Қимати манфӣ</string>
     <string name="customs_762515">Дӯстӣ</string>
     <string name="scans">Аксҳо</string>
     <string name="scan_sources">Манбаҳои акс</string>
@@ -73,7 +73,7 @@
     <string name="description">Тавсиф</string>
     <string name="customs_code">Рамзи гумрук</string>
     <string name="customs_office">Гумрук</string>
-    <string name="vehicle_license_plate">Раками нақлиёт</string>
+    <string name="vehicle_license_plate">Рақами нақлиёт</string>
     <string name="driver_name">Ронанда</string>
     <string name="total_weight">Вазн</string>
     <string name="document_number">Ҳуҷҷат</string>
@@ -96,7 +96,7 @@
     <string name="camera">Камера</string>
     <string name="scales">Тарозу</string>
     <string name="xray">Рентген</string>
-    <string name="customs_popup_762117"><p style="margin : 0; padding-top:0;"><b>Рамз:</b> 762117</p><p style="margin : 0; padding-top:0;"><b>Суроға:</b> Шаҳри Душанбе</p><p style="margin : 0; padding-top:0;"><b>Вақти корӣ:</b> 8:00-17:00</p><a href="https://762117">Назорат</a></string>
+    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; ш. Душанбе&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Вақти корӣ:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762117\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Тарозу&lt;/a&gt;</string>
     <string name="customs_762117">Терминали Душанбе</string>
     <string name="path">Макон</string>
     <string name="id">ID</string>
@@ -111,10 +111,10 @@
     <string name="mapper_id">ID Табдилдиҳанда</string>
     <string name="at_format">Қолаби вақт</string>
     <string name="mapper">Табдилдиҳанда</string>
-    <string name="customs_popup_762317">Дидбонгоҳи 762317</string>
+    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; Ҷайҳун, Панҷи Поён&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Вақти корӣ:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Тарозу&lt;/a&gt;</string>
     <string name="customs_762317">Дидбонгоҳи 762317</string>
     <string name="customs_762225">Дидбонгоҳи 762225</string>
-    <string name="customs_popup_762215">Дидбонгоҳи 762215</string>
+    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt;Мастчоҳ, Фотеҳобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Вақти корӣ:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Тарозу&lt;/a&gt;</string>
     <string name="customs_popup_762225">Дидбонгоҳи 762225</string>
     <string name="map_location_latitude">Арзи географӣ</string>
     <string name="customs_762215">Дидбонгоҳи 762215</string>
