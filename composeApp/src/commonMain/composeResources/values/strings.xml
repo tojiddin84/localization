@@ -41,8 +41,11 @@
     <string name="confirm">Confirm</string>
     <string name="phone">Phone</string>
     <string name="about_the_system">About the System</string>
-    <string name="system_description">"       The Electronic Data Exchange System for the Situational Center of the Customs Service under the Government of the Republic of Tajikistan was developed in 2024 with technical support from the USAID Trade Program in Central Asia, as part of the Medium-Term Development Program for the Customs Authorities of the Republic of Tajikistan for 2020-2024.
-\n       The main goal of the system is to enhance the efficiency, reliability, and transparency of customs control through technical equipment. The system provides automated data collection from customs posts for their prompt processing and analysis in the Situational Center, improving coordination, management, and decision-making in the operations of customs authorities of the Republic of Tajikistan."</string>
+    <string name="system_description">"       The Electronic Data Exchange System for the Situational Center of the Customs Service under the Government of the Republic of Tajikistan was developed in 2024 with the support of the USAID Trade Central Asia Activity. Its implementation is aimed at achieving the objectives of the Medium-Term Development Program for the customs authorities of the Republic of Tajikistan for 2020-2024.
+\n       The main goal of the system is to enhance the efficiency, reliability, and transparency of customs control through the use of modern technologies. Inspection complexes, scales, and license plate recognition cameras have been integrated into the system, enabling the automatic collection and transmission of data to the Customs Service\'s Situational Center.
+\n       Automated integration and access to real-time data aid in the timely and informed decision-making at both the central and regional levels of the Customs Service.
+\n       The system also helps facilitate and increase the transparency of customs procedures, positively impacting the crossborder trade process. The implementation of the system demonstrates the significant advantages of modern technologies in customs management.
+\n"</string>
     <string name="search">Search</string>
     <string name="virtual_earth_map">Virtual earth map</string>
     <string name="pagination">Pagination</string>
@@ -59,7 +62,7 @@
     <string name="scans">Scans</string>
     <string name="scan_sources">Scan sources</string>
     <string name="scan_mappers">Scan mappers</string>
-    <string name="customs_popup_762515">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762515&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt; Tursunzoda, Navobod&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work hours:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762515\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762515\"&gt;Scales&lt;/a&gt;</string>
+    <string name="customs_popup_762515">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762515&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt; Tursunzoda, Navobod&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work mode:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762515\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762515\"&gt;Scales&lt;/a&gt;</string>
     <string name="Longitude">Longitude</string>
     <string name="customs_code">Customs code</string>
     <string name="description">Description</string>
@@ -76,7 +79,7 @@
     <string name="scan_popup_title">Single form of customs control</string>
     <string name="driver_license">Driver license</string>
     <string name="customs_762117">Dushanbe Terminal</string>
-    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt; Dushanbe City&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work hours:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Scales&lt;/a&gt;</string>
+    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt; Dushanbe City&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work mode:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Scales&lt;/a&gt;</string>
     <string name="scan_xray_driver_name_title">Driver\'s Name</string>
     <string name="scan_document_id_title">Document No</string>
     <string name="scan_camera_vehicle_license_plate_title">Plate No</string>
@@ -104,9 +107,9 @@
     <string name="customs_762225">Customs 762225</string>
     <string name="vehicle_license_plate_image">Vehicle license plate image</string>
     <string name="mapper">Mapper</string>
-    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt;Jayhun, Panji Poyon&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work hours:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Scales&lt;/a&gt;</string>
+    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt;Jayhun, Panji Poyon&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work mode:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Xray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Scales&lt;/a&gt;</string>
     <string name="customs_762317">Сustoms 762317</string>
-    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt;Mastchoh, Fotehobod&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Working hours:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;X-Ray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Scales&lt;/a&gt;</string>
+    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Code:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Address:&lt;/b&gt;Mastchoh, Fotehobod&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Work mode:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Camera&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;X-Ray&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Scales&lt;/a&gt;</string>
     <string name="customs_popup_762225">Customs 762225</string>
     <string name="customs_762215">Customs 762215</string>
     <string name="map_location_latitude">Latitude</string>
