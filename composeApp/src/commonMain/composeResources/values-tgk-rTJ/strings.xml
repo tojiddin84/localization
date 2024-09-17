@@ -50,8 +50,11 @@
     <string name="confirm">Тасдиқ</string>
     <string name="phone">Телефон</string>
     <string name="about_the_system">Дар бораи система</string>
-    <string name="system_description">"       Системаи табодули электронии маълумот барои Маркази вокуниши Хадамоти гумруки назди Ҳукумати Ҷумҳурии Тоҷикистон дар соли 2024 бо дастгирии техникии Барномаи Агентии рушди байналмилалии ИМА оид ба савдо дар Осиёи Марказӣ дар доираи Барномаи миёнамуҳлати рушди мақомоти гумруки Ҷумҳурии Тоҷикистон барои солҳои 2020-2024 таҳия шудааст. 
-\n       Мақсади асосии система баланд бардоштани самаранокӣ, эътимоднокӣ ва шаффофияти назорати гумрукӣ тавассути таҷҳизоти техникӣ мебошад. Система дастрас намудани маълумотро аз дидбонгоҳҳои гумрукӣ ба таври худкор ҷиҳати коркард ва таҳлили саривақтии онҳо дар Маркази вокуниш таъмин намуда, ба такмили ҳамоҳангсозӣ, идоракунӣ ва қабули қарорҳо дар фаъолияти мақомоти гумруки Ҷумҳурии Тоҷикистон мусоидат менамояд."</string>
+    <string name="system_description">"       Системаи табодули электронии маълумот барои Маркази вокуниши Хадамоти гумруки назди Ҳукумати Ҷумҳурии Тоҷикистон дар соли 2024 бо дастгирии Барномаи Агентии рушди байналмилалии ИМА оид ба савдо дар Осиёи Марказӣ таҳия шудааст. Таҳияи система ба амалисозии мақсадҳои Барномаи миёнамуҳлати рушди мақомоти гумруки Ҷумҳурии Тоҷикистон барои солҳои 2020-2024 нигаронида шудааст.
+\n       Мақсади асосии система баланд бардоштани самаранокӣ, эътимоднокӣ ва шаффофияти назорати гумрукӣ тавассути татбиқи технологияҳои муосир мебошад. Маҷмӯаҳои бозрасӣ ва муоина, тарозӯҳо ва камераҳои шинохти рақамҳои қайди воситаҳои нақлиёт бо система ҳамгироӣ шудаанд, ки ин имкон медиҳад то маълумот ба таври худкор ҷамъоварӣ ва ба Маркази вокуниши Хадамоти гумрук ирсол гардад.
+\n       Ҳамгироии худкор ва дастрасӣ ба маълумотӣ саривақтӣ барои қабули қарорҳои асоснок ҳам дар сатҳи дастгоҳи марказӣ ва ҳам дар сатҳи раёсатҳои минтақавии Хадамоти гумрук кумак менамоянд.
+\n       Ҳамчунин, система ба содагардонӣ ва таҳкими шаффофияти расмиёти гумрукӣ мусоидат менамояд, ки ин ба ҷараёни савдои фаромарзӣ таъсири мусбӣ мерасонад. Амалисозии система аз бартарияти бараълои истифодаи технологияҳои муосир дар фаъолияти гумрукӣ шаҳодат медиҳад.
+\n"</string>
     <string name="search">Ҷустуҷӯ</string>
     <string name="virtual_earth_map">Харитаи мавҳуми Замин</string>
     <string name="pagination">Саҳифабандӣ</string>
@@ -68,7 +71,7 @@
     <string name="scans">Аксҳо</string>
     <string name="scan_sources">Манбаҳои акс</string>
     <string name="scan_mappers">Табдилдиҳандаҳои акс</string>
-    <string name="customs_popup_762515">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762515&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; Турсунзода, Навобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Вақти корӣ:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762515\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762515\"&gt;Тарозу&lt;/a&gt;</string>
+    <string name="customs_popup_762515">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762515&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; Турсунзода, Навобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Реҷаи кор:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762515\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762515\"&gt;Тарозу&lt;/a&gt;</string>
     <string name="Longitude">Тӯли географӣ</string>
     <string name="description">Тавсиф</string>
     <string name="customs_code">Рамзи гумрук</string>
@@ -96,7 +99,7 @@
     <string name="camera">Камера</string>
     <string name="scales">Тарозу</string>
     <string name="xray">Рентген</string>
-    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; ш. Душанбе&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Вақти корӣ:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762117\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Тарозу&lt;/a&gt;</string>
+    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; ш. Душанбе&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Реҷаи кор:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762117\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Тарозу&lt;/a&gt;</string>
     <string name="customs_762117">Терминали Душанбе</string>
     <string name="path">Макон</string>
     <string name="id">ID</string>
@@ -111,10 +114,10 @@
     <string name="mapper_id">ID Табдилдиҳанда</string>
     <string name="at_format">Қолаби вақт</string>
     <string name="mapper">Табдилдиҳанда</string>
-    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; Ҷайҳун, Панҷи Поён&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Вақти корӣ:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Тарозу&lt;/a&gt;</string>
+    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt; Ҷайҳун, Панҷи Поён&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Реҷаи кор:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Тарозу&lt;/a&gt;</string>
     <string name="customs_762317">Дидбонгоҳи 762317</string>
     <string name="customs_762225">Дидбонгоҳи 762225</string>
-    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt;Мастчоҳ, Фотеҳобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Вақти корӣ:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Тарозу&lt;/a&gt;</string>
+    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рамз:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Суроға:&lt;/b&gt;Мастчоҳ, Фотеҳобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Реҷаи кор:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Тарозу&lt;/a&gt;</string>
     <string name="customs_popup_762225">Дидбонгоҳи 762225</string>
     <string name="map_location_latitude">Арзи географӣ</string>
     <string name="customs_762215">Дидбонгоҳи 762215</string>
