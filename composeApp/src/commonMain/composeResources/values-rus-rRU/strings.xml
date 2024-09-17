@@ -50,8 +50,11 @@
     <string name="confirm">Подтвердить</string>
     <string name="phone">Телефон</string>
     <string name="about_the_system">О системе</string>
-    <string name="system_description">"       Система электронного обмена данными для Ситуационного центра Таможенной службы при Правительстве Республики Таджикистан разработана в 2024 году при технической поддержке Программы USAID по торговле в Центральной Азии в рамках Среднесрочной программы развития таможенных органов Республики Таджикистан на 2020-2024 гг. 
-\n       Основной целью системы является повышение эффективности, надежности и прозрачности таможенного контроля с помощью технического оборудования. Система обеспечивает автоматизированное получение данных с таможенных постов для их оперативной обработки и анализа в Ситуационном центре, улучшая координацию, управление и принятие решений в деятельности таможенных органов Республики Таджикистан."</string>
+    <string name="system_description">"       Система электронного обмена данными для Ситуационного центра Таможенной службы при Правительстве Республики Таджикистан была разработана в 2024 году при поддержке Программы USAID по торговле в Центральной Азии. Ее внедрение направлено на реализацию целей Среднесрочной программы развития таможенных органов Республики Таджикистан на 2020-2024 гг.
+\n       Основная цель системы — повышение эффективности, надежности и прозрачности таможенного контроля через использование современных технологий. Инспекционно-досмотровые комплексы, весы и камеры распознавания номерных знаков интегрированы с системой, что позволяет автоматически собирать и передавать данные в Ситуационный центр Таможенной службы.
+\n       Автоматизированная интеграция и доступ к актуальным данным помогают оперативно принимать обоснованные решения как на центральном, так и на региональном уровнях Таможенной службы.
+\n       Система также способствует упрощению и повышению прозрачности таможенных процедур, что положительно влияет на процесс трансграничной торговли. Внедрение системы демонстрирует значительные преимущества современных технологий в управлении таможенными процессами.
+\n"</string>
     <string name="search">Поиск</string>
     <string name="virtual_earth_map">Виртуальная карта Земли</string>
     <string name="pagination">Страницы</string>
@@ -68,7 +71,7 @@
     <string name="scans">Сканы</string>
     <string name="scan_sources">Источники сканов</string>
     <string name="scan_mappers">Преобразователи сканов</string>
-    <string name="customs_popup_762515">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762515&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Турсунзода, Навобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Время работы:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762515\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762515\"&gt;Весы&lt;/a&gt;</string>
+    <string name="customs_popup_762515">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762515&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Турсунзода, Навобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Режим работы:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762515\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762515\"&gt;Весы&lt;/a&gt;</string>
     <string name="Longitude">Долгота</string>
     <string name="customs_code">Код таможни</string>
     <string name="description">Описание</string>
@@ -110,10 +113,10 @@
     <string name="data_path">Путь к данным</string>
     <string name="at_format">Формат даты</string>
     <string name="mapper">Маппер</string>
-    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Джайхун, Панджи Поён&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Время работы:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Весы&lt;/a&gt;</string>
+    <string name="customs_popup_762317">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762317&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Джайхун, Панджи Поён&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Режим работы:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762317\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762317\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762317\"&gt;Весы&lt;/a&gt;</string>
     <string name="customs_762317">Пост 762317</string>
     <string name="customs_762225">Пост 762225</string>
-    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Мастчо, Фотехобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рабочее время:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Весы&lt;/a&gt;</string>
+    <string name="customs_popup_762215">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762215&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; Мастчо, Фотехобод&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Режим работы:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762215\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762215\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/76215\"&gt;Весы&lt;/a&gt;</string>
     <string name="customs_popup_762225">Пост 762225</string>
     <string name="customs_762215">Пост 762215</string>
     <string name="map_location_latitude">Широта</string>
@@ -121,5 +124,5 @@
     <string name="map_location_longitude">Долгота</string>
     <string name="map_location_identifier">Код поста</string>
     <string name="map_location_description">Описание</string>
-    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; г. Душанбе&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Рабочее время:&lt;/b&gt; 8:00-17:00&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Весы&lt;/a&gt;</string>
+    <string name="customs_popup_762117">&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Код:&lt;/b&gt; 762117&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Адрес:&lt;/b&gt; г. Душанбе&lt;/p&gt;&lt;p style=\"margin : 0; padding-top:0;\"&gt;&lt;b&gt;Режим работы:&lt;/b&gt; 24/7&lt;/p&gt;&lt;a href=\"https://camera/{customsCode}/762117\"&gt;Камера&lt;/a&gt;&amp;nbsp&lt;a href=\"https://xray/{customsCode}/762515\"&gt;Рентген&lt;/a&gt;&amp;nbsp&lt;a href=\"https://scales/{customsCode}/762117\"&gt;Весы&lt;/a&gt;</string>
 </resources>
